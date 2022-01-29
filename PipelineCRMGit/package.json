@@ -1,0 +1,10 @@
+{
+  "name": "pipelinecrmconnector",
+  "version": "1.0.0",
+  "description": "This connector enables the user to perform operations with Pipeline CRM",
+  "dependencies": {
+    "@webmethodsio/cli-sdk": "*",
+    "node-fetch": "^2.6.1",
+    "request": "2.55.0"
+  }
+}

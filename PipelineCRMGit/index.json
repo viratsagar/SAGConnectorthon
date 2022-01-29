@@ -1,0 +1,28 @@
+{
+  "name": "Pipeline CRM",
+  "description": "This connector enables the user to perform operations with Pipeline CRM",
+  "triggers": [],
+  "actions": [
+    "/v1/listcompanies",
+    "/v1/retrievecompany",
+    "/v1/createcompany",
+    "/v1/updatecompany",
+    "/v1/deletecompany",
+    "/v1/listcalendarentries",
+    "/v1/createcalendarentry",
+    "/v1/retrievecalendarentry",
+    "/v1/updatecalendarentry",
+    "/v1/deletecalendarentry",
+    "/v1/listdeals",
+    "/v1/createdeals",
+    "/v1/retrievedeal",
+    "/v1/updatedeals",
+    "/v1/deletedeals"
+  ],
+  "version": 1,
+  "auth_type": "custom",
+  "doc_link": "http://docs.example.com",
+  "appId": "68e516d8-7846-499a-8d04-0edb3a736d5a",
+  "guid": "6758c120-8505-45ca-917b-6ded0d0f41bb",
+  "connectionUid": "pipeline-crm-connector-JYX_IDuiL"
+}
